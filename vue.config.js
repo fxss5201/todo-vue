@@ -6,8 +6,6 @@ module.exports = {
   productionSourceMap: undefined,
   parallel: undefined,
   css: {
-    modules: true,
-    sourceMap: true,
-    extract: false
+    sourceMap: true
   }
 }
